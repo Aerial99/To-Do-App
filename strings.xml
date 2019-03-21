@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="list">Your To-Do List</string>
+    <string name="emptyList">Empty List?</string>
+    <string name="edit">Add/Edit</string>
+    <string name="newItem">Enter Item Here</string>
+    <string name="instr">Long Press an item to delete it</string>
+    <string name="addBtn">Add Item</string>
+</resources>
